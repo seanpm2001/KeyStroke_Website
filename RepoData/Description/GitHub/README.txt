@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+❤️‍🩹️⌨️😵️🌐️ The official source repository for the website of the KeyStroke project, a joke program that makes you have a text stroke every x key strokes. It spams your keyboard to emulate having a stroke. It also blocks keyloggers as a bonus (separate functionality)
