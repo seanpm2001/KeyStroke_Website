@@ -1,0 +1,1 @@
+❤️‍🩹️⌨️😵️🌐️ The official source repository for the website of the KeyStroke project, a joke program that makes you have a text stroke every x key strokes. It spams your keyboard to emulate having a stroke. It also blocks keyloggers as a bonus (separate functionality)
